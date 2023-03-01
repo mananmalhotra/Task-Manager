@@ -1,0 +1,8 @@
+com\assignment\taskmanager\TaskManagerApplication.class
+com\assignment\taskmanager\service\TaskManagerService.class
+com\assignment\taskmanager\controller\TaskManagerController.class
+com\assignment\taskmanager\repository\TaskAuditRepository.class
+com\assignment\taskmanager\entity\Task.class
+com\assignment\taskmanager\repository\TaskManagerRepository.class
+com\assignment\taskmanager\entity\TaskAudit.class
+com\assignment\taskmanager\enums\StatusEnum.class
